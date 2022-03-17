@@ -1,2 +1,6 @@
-# mm-intro-to-web-dev-2022
-High School M&amp;M Workshop for Intro to Web Development
+# Intro to Web Development | High School Mentorship Program
+
+Learning Objectives:
+- Structuring content on a webpage using HTML elements
+- Styling HTML elements using CSS
+- Accelerating web design with the Bootstrap library
