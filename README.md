@@ -1,6 +1,6 @@
-# Hello Website (blank)
+# Hello future Web Developer!!
 
-This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination.
+This is a basic static HTML starter project you can build on however you like. No need to save. While you develop your site using glitch, your changes will happen 🪄 immediately in the preview window. You can upload assets like images or audio in `assets` to the left. The rest is up to you and your imagination. Look back at this document as much as needed and remember that you are **_awesome_**!!
 
 ## What's in this project?
 
@@ -26,6 +26,7 @@ This is a basic static HTML starter project you can build on however you like. N
 - [CSS](https://www.w3schools.com/cssref/default.asp)
 - [HTML](https://www.w3schools.com/tags/default.asp)
 - [JavaScript](https://www.w3schools.com/jsref/default.asp)
+- [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)
 
 ## HTML Tags Quick reference
 
