@@ -31,7 +31,7 @@ This is a basic static HTML starter project you can build on however you like. N
 
 * HTML tag: It is the root of the html document which is used to specify that the document is html.
   * Syntax: 
-    * <html> Statements... </html>
+    * `<html> Statements... </html>`
   * Code:     
     >`<html>`
        `<head>`
@@ -42,22 +42,21 @@ This is a basic static HTML starter project you can build on however you like. N
 
 * Head tag: Head tag is used to contain all the head element in the html file. It contains the title, style, meta, … etc tag.
   * Syntax: 
-    * <head> Statements... </head>
+    * `<head> Statements... </head>`
   * Code: 
-    >`<head>Contains elements describing the document</head>``
+    >`<head>Contains elements describing the document</head>`
 
 * Body tag: It is used to define the body of html document. It contains image, tables, lists, … etc.
   * Syntax: 
- 
-    * <body> Statements... </body>
+    * `<body> Statements... </body>`
   * Code: 
     >`<body>The content of your HTML page</body>`
 
 * Title tag: It is used to define the title of html document.
   * Syntax: 
-    * <title> Statements... </title>
+    * `<title> Statements... </title>`
   * Code: 
-    >`<title>tab name</title>``
+    >`<title>tab name</title>`
 
 * Heading tag: It is used to define the heading of html document.
   * Syntax: 
@@ -118,13 +117,13 @@ This is a basic static HTML starter project you can build on however you like. N
       
 * Comment tag: It is used to set the comment in html document. It is not visible on the browser.
   * Syntax: 
-    * <!-- Statements... -->
+    * `<!-- Statements... -->`
   * Code: 
     >`<!--Comment section-->`
     
 * Image tag: It is used to add image element in html document.
   * Syntax: 
-    *<img>
+    * `<img>`
   * Code: 
     >`<img src="gfg.jpg" width="40"`
       `height="40" border="0">`
@@ -141,10 +140,8 @@ This is a basic static HTML starter project you can build on however you like. N
   * Syntax: 
     * `<meta> Statements ... <meta>`
   * Code: 
-    >`<meta name="Description"`
-        `content="Description of your site"> `
-    `<meta name="keywords"`
-     `   content="keywords describing your site">`
+    >`<meta name="Description" content="Description of your site">`
+     `<meta name="keywords" content="keywords describing your site">`
 
 
 ## Powerful Websites
